@@ -4,7 +4,7 @@ Welcome to **EVOS AI**, a sleek and futuristic landing page for your AI-powered 
 
 
 <h1 align="center"> 
-<a href="https://techlyn.vercel.app/"><strong> ➥ Launch Experience 🌍</strong></a>
+<a href="https://evos-beta.vercel.app/"><strong> ➥ Launch Experience 🌍</strong></a>
 </h1>
 
 ---

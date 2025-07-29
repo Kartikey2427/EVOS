@@ -1,12 +1,46 @@
-# React + Vite
+# 🤖 EVOS AI – Your Future Assistant
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **EVOS AI**, a sleek and futuristic landing page for your AI-powered assistant. Designed to captivate and convert, EVOS AI blends elegant design with modern UI to showcase next-generation artificial intelligence solutions.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h1 align="center"> 
+<a href="https://techlyn.vercel.app/"><strong> ➥ Launch Experience 🌍</strong></a>
+</h1>
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Screenshots
+<img width="1900" height="873" alt="image" src="https://github.com/user-attachments/assets/dee38f87-2f48-448c-a2c2-3c6443b73b1e" />
+
+
+
+
+---
+
+## 💻 Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) &nbsp;
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+
+---
+
+## ✨ Features
+
+- 🤖 **AI Use Case Highlights** – Showcases how EVOS enhances productivity and decision-making.
+- 🎨 **Responsive Layout** – Fully mobile-friendly and responsive design.
+- 📚 **Component-Based Structure** – Clean and reusable codebase.
+- 💼 **Footer & Legal Links** – Attribution and contact-ready layout.
+
+
+---
+
+## 🚀 Deployment
+
+**To clone and run locally:**
+
+```bash
+git clone https://github.com/Kartikey24/evos-ai.git
+cd evos-ai
+npm install
+npm run dev
